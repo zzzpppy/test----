@@ -13,4 +13,7 @@ func main() {
 
 	var y int = 20
 	fmt.Println(y)
+
+	var z = 30
+	fmt.Println(z)
 }
