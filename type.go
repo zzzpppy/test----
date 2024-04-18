@@ -8,4 +8,6 @@ type User struct {
 type Address struct {
 	Street string `json:"street"`
 	City   string `json:"city"`
+	Number int    `json:"number"`
+	User   User   `json:"user"`
 }
