@@ -22,4 +22,10 @@ func main() {
 	fmt.Println(z)
 
 	fmt.Println("zzzzz")
+	fmt.Println("zzzzz")
+
+	fmt.Println("zzzzz")
+	fmt.Println("zzzzz")
+
+	
 }
