@@ -11,6 +11,9 @@ func main() {
 	x = 1
 	fmt.Println(x)
 
+	x = 2
+	fmt.Println(x)
+
 	var y int = 20
 	fmt.Println(y)
 
