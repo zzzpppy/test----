@@ -11,8 +11,7 @@ func main() {
 	x = 1
 	fmt.Println(x)
 
-	var x int
-	x = 10
+	x = 2
 	fmt.Println(x)
 
 	var y int = 20
