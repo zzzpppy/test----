@@ -20,4 +20,6 @@ func main() {
 
 	var z = 30
 	fmt.Println(z)
+
+	fmt.Println("zzzzz")
 }
